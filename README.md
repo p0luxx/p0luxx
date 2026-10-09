@@ -100,11 +100,11 @@ Passionate about <b>software architecture</b>, <b>Linux customization</b>, and g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorgalla&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10&hide=html,css" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0luxx&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10&hide=html,css" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorgalla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=p0luxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
@@ -124,7 +124,7 @@ Passionate about <b>software architecture</b>, <b>Linux customization</b>, and g
   <a href="https://linkedin.com/in/gorka-gallardo-castany" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/gorgalla" target="_blank">
+  <a href="https://github.com/p0luxx" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" alt="GitHub"/>
   </a>
 </p>
