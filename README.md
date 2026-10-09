@@ -1,125 +1,99 @@
-<h1 align="center">Hi, I'm Gorka 👋</h1>
-<h3 align="center">AI Specialist & Systems Engineer | 42 Next Student</h3>
+<h1 align="center">Hi, I'm Gorka Gallardo 👋</h1>
+<h3 align="center">Backend & Systems Developer | 42 Barcelona Student</h3>
 <p align="center">
-Building <b>intelligent systems</b> and <b>high-performance backends</b> with Python, Rust & C.<br>
-Passionate about <b>machine learning</b>, <b>system optimization</b>, and <b>low-level programming</b>.
+Building <b>algorithmic simulations</b>, <b>high-performance backends</b>, and <b>low-level systems</b>.<br>
+Passionate about <b>software architecture</b>, <b>Linux customization</b>, and gaining a deep, nuanced understanding of complex systems.
 </p>
 
 ---
 
 ## 🧠 About me
 
-- 🤖 **AI & Machine Learning Focus**: Developing ML models, neural networks, and intelligent algorithms using Python and modern frameworks.
-- 🔥 **Systems Programming**: Deep expertise in **C** and **Rust** for performance-critical applications and systems-level programming.
-- 🐍 **Python Mastery**: From data science to backend services—leveraging **FastAPI**, **Django**, and **PyTorch/TensorFlow**.
-- ⚙️ **Low-Level Optimization**: Understanding memory management, concurrency, and performance through hands-on systems programming.
-- 📚 **42 Next Common Core**: Building foundational skills in algorithms, data structures, and computational thinking.
-- 🗄️ **Data Pipeline Architecture**: Experience designing ETL workflows and managing both SQL and NoSQL databases.
-- 🐋 **DevOps & Deployment**: Containerization, orchestration, and infrastructure as code for ML pipelines.
-- 🚀 **Goal**: Contributing to cutting-edge AI projects as a **Full-Stack AI Engineer**.
+- 🐍 **Backend & Architecture**: Developing robust software using **Python**, **FastAPI**, and **Django**, enforcing clean code and strict typing with **Pydantic** and **mypy**.
+
+- ⚙️ **Systems & Low-Level Programming**: Deep diving into memory management, pointers, and concurrency in **C** through the rigorous **42 Barcelona** Cursus.
+
+- 🤖 **Algorithmic Problem Solving**: Designing complex multi-agent systems, graph-based simulations, and time-expanded pathfinding algorithms. 
+
+- 🐧 **Linux & Hardware Enthusiast**: Daily driving **Arch/Garuda Linux** with custom window managers (Hyprland, bspwm) and **Neovim**. Experienced in resurrecting and modifying hardware, from custom Android ROMs to microcontrollers (ESP32/Arduino).
+
+- 🌌 **Hackathons & Innovation**: Participant in the NASA Space Apps Challenge 2026, combining software engineering with applied physics concepts.
+
+- 🚀 **Goal**: Mastering the 42 Common Core while building high-performance, architecture-driven engineering projects. 
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core Languages (42 Next & AI-Focused)
+### Core Languages & Systems
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" title="Rust"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
 
-### AI & Machine Learning
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
-</p>
-
-### Backend & APIs
+### Backend & Architecture
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" title="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
 </p>
 
-### Databases & Data Infrastructure
+### Tools, Environment & Embedded
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" title="Redis"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-</p>
-
-### DevOps & Infrastructure
-<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" title="Neovim"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40" title="Arch Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" title="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" title="Arduino / Microcontrollers"/>
 </p>
 
-### Development Tools & Standards
-- **Code Quality**: Ruff, Black, Flake8, Clippy (PEP 8 & Rust idioms compliance).
-- **Testing & Validation**: Pytest, Unit Testing, Integration Testing, Model Evaluation.
-- **Dependency Management**: UV, Poetry, Cargo, pip.
-- **Version Control**: Git, GitHub, collaborative workflows.
-- **Data Science**: Jupyter Notebooks, scikit-learn, statsmodels.
-- **Visualization**: Matplotlib, Seaborn, Plotly.
+### Development Standards
+- **Package Management**: uv, Makefiles.
+- **Code Quality**: mypy (Type checking), strict PEP 8 compliance.
+- **Patterns**: Object-Oriented Design, Strategy Pattern.
 
 ---
 
 ## 🚀 Key Projects
 
-### 🤖 [Neural Network Implementation from Scratch](enlace-a-tu-repo)
-*Python | NumPy | Deep Learning*
-- Built a fully-functional neural network library from scratch using NumPy.
-- Implemented forward/backward propagation, gradient descent, and multiple activation functions.
-- Trained on MNIST dataset achieving 97%+ accuracy without ML frameworks.
+### 🚁 [Fly-in](#) (In Development)
+*Python | Graph Algorithms | Pathfinding*
+- Developing a multi-agent drone routing and pathfinding simulator for 42 Barcelona.
+- Implementing time-expanded pathfinding algorithms to handle complex graphical logic.
+- Designing a highly modular, object-oriented architecture for scalable simulations.
 
-### ⚡ [High-Performance Data Pipeline](enlace-a-tu-repo)
-*Rust | Python | PostgreSQL*
-- Developed a blazing-fast ETL pipeline in Rust for processing 1M+ records/hour.
-- Integrated Python layers for ML model inference with zero-copy data transfer.
-- Achieved 10x performance improvement over pure Python implementation.
+### 🧩 [A-Maze-ing](#)
+*Python | Strategy Pattern | Procedural Generation*
+- Engineered a procedural maze generation and solving library with a custom CLI.
+- Utilized the Strategy Pattern (e.g., `RecursiveBacktrackerStrategy`) for flexible algorithm implementation.
+- Built ASCII rendering capabilities and handled packaging via `pyproject.toml`.
 
-### 📰 [AI-Powered News Aggregator](enlace-a-tu-repo)
-*Python | FastAPI | OpenAI API | LLMs*
-- Built modular CLI tool and REST API to filter and summarize global news using LLMs.
-- Implemented **Type Hints**, **Custom Exceptions**, and **Async/Await** patterns.
-- Deployed on Docker with Redis caching for optimal performance.
+### 📰 [smartnewsai](#)
+*Python | APIs | Data Processing*
+- Developed a robust script for aggregating global news and handling structured data outputs.
+- Focused on clean API integration and data parsing.
 
-### 🔐 [Secure File Encryption Utility](enlace-a-tu-repo)
-*C | Rust | Cryptography*
-- Implemented AES-256 encryption in C with memory-safe Rust bindings.
-- Optimized for minimal latency and maximum security through 42 Next curriculum projects.
-- Demonstrates understanding of low-level memory management and security best practices.
+### 🛠️ [42 Cursus Core: libft](#)
+*C | Memory Management | Makefiles*
+- Re-engineering standard C library functions from scratch.
+- Deep focus on memory safety, pointer arithmetic, and building scalable Makefiles for low-level systems.
 
-### 🧠 [Recommendation System Engine](enlace-a-tu-repo)
-*Python | FastAPI | PyTorch | MongoDB*
-- Developed collaborative filtering and content-based recommendation models.
-- Built REST API serving predictions with sub-100ms latency.
-- Integrated vector embeddings for semantic similarity matching.
+### 👾 [Hardware & Retro Modding](#)
+*Embedded | LineageOS | TWRP*
+- Extensive hands-on experience modifying legacy hardware (installing custom recovery and LineageOS on legacy tablets for dedicated emulation).
+- Exploring hardware interfacing with ESP32 and Arduino starter kits.
 
 ---
 
-## 📖 42 Next Common Core Competencies
+## 📖 42 Barcelona Competencies
 
 | Subject | Progress | Key Skills |
 |---------|----------|-----------|
-| **Mandatory Part** | 🔄 In Progress | C fundamentals, algorithms, data structures |
-| **Bonus/Electives** | 🔄 In Progress | Systems programming, Python advanced patterns |
-| **Peer Learning** | ✅ Active | Code reviews, collaborative problem-solving |
-
-**Core Projects Completed/In Progress:**
-- `libft` - Custom C library
-- `get_next_line` - File I/O handling
-- `ft_printf` - Custom printf implementation
-- `push_swap` - Algorithm optimization
+| **Piscine** | ✅ Passed (March 2026) | Shell, C basics, extreme resilience |
+| **Common Core** | 🔄 In Progress | Algorithms, System calls, Data Structures |
+| **Peer Learning** | ✅ Active | Code reviews, architecture discussions |
 
 ---
 
@@ -135,12 +109,12 @@ Passionate about <b>machine learning</b>, <b>system optimization</b>, and <b>low
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Learning & Exploring
 
-- 🔬 **Advanced ML**: Transformers, NLP, Computer Vision deep dives
-- 🦀 **Rust for Systems**: Building performant, memory-safe ML inference engines
-- ⚡ **Performance Optimization**: Profiling, benchmarking, and low-level optimization
-- 🌐 **Distributed Systems**: Building scalable AI inference clusters
+- 🧭 **Advanced Algorithms**: Time-expanded graph traversal and optimization.
+- 🐧 **Linux Ricing**: Perfecting Wayland configurations (Hyprland, Waybar) for maximum workflow efficiency.
+- 🌌 **Space Simulation**: Developing projects for the NASA Space Apps Challenge.
+- 🐙 **Systematic Biology**: Applying my analytical mindset to marine biology (fascinated by the complex systems of jellyfish and octopuses).
 
 ---
 
@@ -150,9 +124,6 @@ Passionate about <b>machine learning</b>, <b>system optimization</b>, and <b>low
   <a href="https://linkedin.com/in/gorka-gallardo-castany" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/el_wonkaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" alt="Twitter"/>
-  </a>
   <a href="https://github.com/gorgalla" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" alt="GitHub"/>
   </a>
@@ -161,14 +132,11 @@ Passionate about <b>machine learning</b>, <b>system optimization</b>, and <b>low
 ---
 
 <p align="center">
-  <i>💡 "Great code is about solving problems elegantly, from high-level AI models to low-level system optimizations."</i>
+  <i>💡 "True engineering isn't just about getting an output; it's about deeply understanding the nuances of the system beneath it."</i>
 </p>
 
 <p align="center">
-  <a href="https://42.fr/" target="_blank">
-    <img src="https://img.shields.io/badge/School-42-000000?style=flat-square&logo=42&logoColor=white" />
-  </a>
-  <a href="https://42.fr/" target="_blank">
-    <img src="https://img.shields.io/badge/Cursus-42_Next-FF1493?style=flat-square" />
+  <a href="https://42barcelona.com/" target="_blank">
+    <img src="https://img.shields.io/badge/School-42_Barcelona-000000?style=flat-square&logo=42&logoColor=white" />
   </a>
 </p>
